@@ -1,7 +1,7 @@
-Project的build.gradle加入这句
-maven {url "https://raw.githubusercontent.com/ALSYLY/avatarmobi/master"}
-依赖加入：
-implementation 'com.alsy.ads:Jelly:1.0.2'
+#Project的build.gradle加入这句
+#maven {url "https://raw.githubusercontent.com/ALSYLY/avatarmobi/master"}
+#依赖加入：
+#implementation 'com.alsy.ads:Jelly:1.0.2'
 
 Sdk初始化：
 SmartAds.init(activity, appid, subid, debugMode);
