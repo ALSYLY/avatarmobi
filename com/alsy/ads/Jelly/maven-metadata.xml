@@ -3,11 +3,12 @@
   <groupId>com.alsy.ads</groupId>
   <artifactId>Jelly</artifactId>
   <versioning>
-    <release>1.0.3</release>
+    <release>1.0.4</release>
     <versions>
       <version>1.0.2</version>
       <version>1.0.3</version>
+      <version>1.0.4</version>
     </versions>
-    <lastUpdated>20181217073446</lastUpdated>
+    <lastUpdated>20181220105545</lastUpdated>
   </versioning>
 </metadata>
